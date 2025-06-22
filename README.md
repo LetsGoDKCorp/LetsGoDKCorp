@@ -1,4 +1,4 @@
-# 👋 Hi, we're Steve Team
+# 👋 Hi, we're DK Corp
 
 Welcome to our GitHub profile!  
 We’re a development team
